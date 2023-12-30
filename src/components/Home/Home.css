@@ -1,0 +1,11 @@
+.Home_container {
+   flex-basis: 80%;
+   color: #fff;
+}
+
+.Home_wapper {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   height: 100%;
+}
